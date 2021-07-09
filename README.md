@@ -1,3 +1,4 @@
+![deno picture](deno.svg)
 # deno-oak-example
 
 First Deno + Oak application stolen from Internet and tweaked so that it actually works.
